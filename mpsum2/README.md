@@ -2,6 +2,10 @@
 
 Released: 2022/07/26
 
+_This Information collection contains all the new things I found while browsing the update's game files. It consists of to parts:_
+- **Data**: This part contains everything new that I found.
+- **Images**: This part contains images of the most important new additions.
+
 ## Data
 
 This part just contains the information about new things, see **Images** for images to some of the new content (e.g. vehicles & weapons).
@@ -290,83 +294,83 @@ The new animation dictionaries.
 
 - `BRIOSO3` - Grotti Brioso 300 Widebody
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229079-2fe63613-a1d1-418b-b4da-dcfa77ca974d.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229079-2fe63613-a1d1-418b-b4da-dcfa77ca974d.png)
 
 - `CONADA` - Buckingham Conada
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229212-0c386541-1c24-4ffc-9dd4-bbc9744fc7fb.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229212-0c386541-1c24-4ffc-9dd4-bbc9744fc7fb.png)
 
 - `CORSITA` - Lampadati Corsita
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229303-b3fac99c-b6f5-4367-83b6-013000ea5758.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229303-b3fac99c-b6f5-4367-83b6-013000ea5758.png)
 
 - `DRAUGUR` - Declasse Draugur
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229370-1b6b410d-0b66-439d-ae6d-e4bcc71ac97e.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229370-1b6b410d-0b66-439d-ae6d-e4bcc71ac97e.png)
 
 - `GREENWOOD` - Bravado Greenwood
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229444-8dc93ab6-bb2a-462b-8b98-65e2bbad3466.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229444-8dc93ab6-bb2a-462b-8b98-65e2bbad3466.png)
 
 - `KANJOSJ` - Dinka Kanjo SJ
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229485-94151706-3f0b-412b-b0a2-db57428e2491.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229485-94151706-3f0b-412b-b0a2-db57428e2491.png)
 
 - `LM87` - Benefactor LM87
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229549-4670bf66-8715-4bcb-9d66-3f2d7bc25915.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229549-4670bf66-8715-4bcb-9d66-3f2d7bc25915.png)
 
 - `OMNISEGT` - Obey Omnis e-GT
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229633-66b1273c-33da-487b-81e8-94540f72ca8f.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229633-66b1273c-33da-487b-81e8-94540f72ca8f.png)
 
 - `POSTLUDE` - Dinka Postlude
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229717-a416541d-f448-4126-9e6e-0a076b3a55b4.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229717-a416541d-f448-4126-9e6e-0a076b3a55b4.png)
 
 - `RHINEHART` - Rhinehart
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229785-281ca964-61ba-4e35-9715-b1a469b26dd1.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229785-281ca964-61ba-4e35-9715-b1a469b26dd1.png)
 
 - `RUINER4` - Imponte Ruiner ZZ-8
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229862-9b76545c-900b-4101-aa6f-ffcd3ccb6da5.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229862-9b76545c-900b-4101-aa6f-ffcd3ccb6da5.png)
 
 - `SENTINEL4` - Ubermacht Sentinel Classic Widebody
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229933-36fc30bb-d2c3-4385-9828-3791019396c3.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229933-36fc30bb-d2c3-4385-9828-3791019396c3.png)
 
 - `SM722` - Benefactor SM722
 
-![grafik](https://user-images.githubusercontent.com/59053718/181229983-378d938c-fcaa-447f-a3ab-82a570218687.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181229983-378d938c-fcaa-447f-a3ab-82a570218687.png)
 
 - `TENF` - Obey 10F
 
-![grafik](https://user-images.githubusercontent.com/59053718/181230058-3fe38e78-c63d-4e6f-b511-7e7b40d7b470.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181230058-3fe38e78-c63d-4e6f-b511-7e7b40d7b470.png)
 
 - `TENF2` - Obey 10F Widebody
 
-![grafik](https://user-images.githubusercontent.com/59053718/181230111-1277a431-3b22-4b9e-b06f-d93d8a5e8ae1.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181230111-1277a431-3b22-4b9e-b06f-d93d8a5e8ae1.png)
 
 - `TORERO2` - Pegassi Torero XO
 
-![grafik](https://user-images.githubusercontent.com/59053718/181230153-01472de8-2f80-4c49-8cc5-a688f0919edf.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181230153-01472de8-2f80-4c49-8cc5-a688f0919edf.png)
 
 - `VIGERO2` - Declasse Vigero ZX
 
-![grafik](https://user-images.githubusercontent.com/59053718/181230191-70377398-f807-470d-bad3-2359bc178c51.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181230191-70377398-f807-470d-bad3-2359bc178c51.png)
 
 - `WEEVIL2` - BF Weevil Custom
 
-![grafik](https://user-images.githubusercontent.com/59053718/181230241-83f35c0b-aed7-4220-8009-1fa826d6eb9a.png)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181230241-83f35c0b-aed7-4220-8009-1fa826d6eb9a.png)
 
 
 ### Interiors
 
 - Farm House (`dlc_int_04_sum2`) - (x: 850.00000000 y: -3000.00000000 z: -50.00000000)
 
-![farmhouse](https://user-images.githubusercontent.com/59053718/181232221-c5c9a586-7827-4c17-8a99-84212a5377a9.PNG)
+  ![farmhouse](https://user-images.githubusercontent.com/59053718/181232221-c5c9a586-7827-4c17-8a99-84212a5377a9.PNG)
 
 - Warehouse (`dlc_int_03_sum2`) - (x: 800.00000000 y: -3000.00000000 z: -70.00000000)
 
-![warehouse](https://user-images.githubusercontent.com/59053718/181232254-cf50e9a7-a48c-4e16-9f6a-62997d984b6b.PNG)
+  ![warehouse](https://user-images.githubusercontent.com/59053718/181232254-cf50e9a7-a48c-4e16-9f6a-62997d984b6b.PNG)
