@@ -271,3 +271,18 @@ The new animation dictionaries.
 - `anim@weapons@first_person@aim_scope@generic@sniper_rifle@precision_rifle@core`
 
 ## Images
+
+### Weapons
+
+- Metal Detector (`WEAPON_METALDETECTOR`)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181178419-cfdddb88-99b6-4fb5-9237-9f7ce9c32d8f.png)
+
+- Precision Rifle (`WEAPON_PRECISIONRIFLE`)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181178518-4adb58b0-252a-4006-9593-60daaafb5782.png)
+
+- Service Carbine (`WEAPON_TACTICALRIFLE`)
+  ![grafik](https://user-images.githubusercontent.com/59053718/181178585-f3ed15b0-1bee-4ab9-ba0f-ff12cb696f0b.png)
+
+### Vehicles
+
+### Interiors
