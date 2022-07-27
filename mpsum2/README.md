@@ -192,7 +192,22 @@ The new props that have been added in this update.
 The new interiors that have been added in this update.
 
 - Farm House (`dlc_int_04_sum2`) - (x: 850.00000000 y: -3000.00000000 z: -50.00000000)
+
+  **Entity Sets**:
+  - entity_set_style_1
+  - entity_set_style_2
+  - entity_set_style_3
+  - entity_set_style_4
+  - entity_set_style_5
+  
 - Warehouse (`dlc_int_03_sum2`) - (x: 800.00000000 y: -3000.00000000 z: -70.00000000)
+
+  **Entity Sets**:
+  - entity_set_office
+  - entity_set_light_option_1
+  - entity_set_light_option_2
+  - entity_set_light_option_3
+  - entity_set_tint_options
 
 ### Other
 
