@@ -29,6 +29,8 @@ The new components specific weapons got in this update.
 
 ### Vehicles (18)
 
+The new vehicles added in this update.
+
 - `BRIOSO3` - Grotti Brioso 300 Widebody
 - `CONADA` - Buckingham Conada
 - `CORSITA` - Lampadati Corsita
@@ -48,7 +50,28 @@ The new components specific weapons got in this update.
 - `VIGERO2` - Declasse Vigero ZX
 - `WEEVIL2` - BF Weevil Custom
 
+### Vehicle Mods
+
+The vehicles that got new mods.
+
+- `buffalo4`
+- `champion`
+- `feltzer3`
+- `granger2`
+- `picador`
+- `schwarzer`
+- `seasparrow2`
+- `seasparrow3`
+- `sentinel`
+- `shinobi`
+- `tailgater`
+- `turismor`
+- `zeno`
+- `zentorno`
+
 ### Peds (9)
+
+The new peds that have been added in this update.
 
 - `A_F_M_GenBiker_01`
 - `A_M_M_GenBiker_01`
@@ -61,6 +84,8 @@ The new components specific weapons got in this update.
 - `U_M_Y_Juggernaut_02`
 
 ### Props
+
+The new props that have been added in this update.
 
 - `prop_reh_accs_01`
   - `reh_p_para_bag_reh_s_01a`
@@ -160,6 +185,89 @@ The new components specific weapons got in this update.
 
 ### Interiors
 
+The new interiors that have been added in this update.
+
+- Farm House (`dlc_int_04_sum2`) - (x: 850.00000000 y: -3000.00000000 z: -50.00000000)
+- Warehouse (`dlc_int_03_sum2`) - (x: 800.00000000 y: -3000.00000000 z: -70.00000000)
+
 ### Other
+
+Other new additions/changes that do not have their own category.
+
+#### Clip dictionaries
+
+The new animation dictionaries.
+
+- `anim@amb@office@laptops@female@var_a@base@`
+- `anim@amb@office@laptops@female@var_b@base@`
+- `anim@amb@office@laptops@female@var_c@base@`
+- `anim@amb@office@laptops@male@var_a@base@`
+- `anim@amb@office@laptops@male@var_b@base@`
+- `anim@amb@office@laptops@male@var_c@base@`
+- `anim@scripted@deathmatch@rpg@heeled@`
+- `anim@scripted@deathmatch@rpg@male@`
+- `anim@scripted@deathmatch@sniper@heeled@`
+- `anim@scripted@deathmatch@sniper@male@`
+- `anim@scripted@deathmatch@throwables@heeled@`
+- `anim@scripted@deathmatch@throwables@male@`
+- `anim@scripted@freemode@ld_organics@female@`
+- `anim@scripted@freemode@ld_organics@heeled@`
+- `anim@scripted@freemode@ld_organics@male@`
+- `anim@scripted@freemode@passed_out_vip_backseat_idle@male@`
+- `anim@scripted@freemode@throw_up_toilet@male@`
+- `anim@scripted@freemode@ufo_invasion@ufo_float@heeled@`
+- `anim@scripted@freemode@ufo_invasion@ufo_float@male@`
+- `anim@scripted@freemode@underwater_satchel_bomb@heeled@`
+- `anim@scripted@freemode@underwater_satchel_bomb@male@`
+- `anim@scripted@nightclub@vomit@`
+- `anim@scripted@player@fix_astu_ig8_weed_smoke@heeled@`
+- `anim@scripted@player@fix_astu_ig8_weed_smoke@male@`
+- `anim@scripted@ulp_missions@broken_laptop@heeled@`
+- `anim@scripted@ulp_missions@broken_laptop@male@`
+- `anim@scripted@ulp_missions@change_clothes@`
+- `anim@scripted@ulp_missions@change_clothes@female@`
+- `anim@scripted@ulp_missions@change_clothes@male@`
+- `anim@scripted@ulp_missions@computerhack@heeled@`
+- `anim@scripted@ulp_missions@computerhack@male@`
+- `anim@scripted@ulp_missions@empty_crate@heeled@`
+- `anim@scripted@ulp_missions@empty_crate@male@`
+- `anim@scripted@ulp_missions@fibgreet@male@`
+- `anim@scripted@ulp_missions@fuse@male@`
+- `anim@scripted@ulp_missions@garageopen@heeled@`
+- `anim@scripted@ulp_missions@garageopen@male@`
+- `anim@scripted@ulp_missions@hatch@hatch_enter@male@`
+- `anim@scripted@ulp_missions@hatch@hatch_exit@male@`
+- `anim@scripted@ulp_missions@iaa_intro@`
+- `anim@scripted@ulp_missions@iaa_intro@heeled@`
+- `anim@scripted@ulp_missions@iaa_intro@male@`
+- `anim@scripted@ulp_missions@injured_agent@`
+- `anim@scripted@ulp_missions@juggernaut@`
+- `anim@scripted@ulp_missions@paperwork@heeled@`
+- `anim@scripted@ulp_missions@paperwork@male@`
+- `anim@scripted@ulp_missions@players_hacking@driver_back@heeled@`
+- `anim@scripted@ulp_missions@players_hacking@driver_back@male@`
+- `anim@scripted@ulp_missions@players_hacking@passenger_back@heeled@`
+- `anim@scripted@ulp_missions@players_hacking@passenger_back@male@`
+- `anim@scripted@ulp_missions@players_wake_up@heeled@`
+- `anim@scripted@ulp_missions@players_wake_up@male@`
+- `anim@scripted@ulp_missions@react_to_smoke@heeled@`
+- `anim@scripted@ulp_missions@react_to_smoke@male@`
+- `anim@veh@car@weevil2@ds@enter_exit`
+- `anim@veh@car@weevil2@ps@enter_exit`
+  - `sweep_high`
+  - `sweep_med`
+  - `sweep_low`
+- `anim@veh@drivebylowlm87@@ds_grenade`
+- `anim@veh@low@lm87@ds@enter_exit`
+- `anim@veh@low@lm87@ps@enter_exit`
+- `anim@veh@low@torero2@ds@enter_exit`
+- `anim@veh@low@torero2@ps@enter_exit`
+- `anim@veh@std@draugur@ds@enter_exit`
+- `anim@veh@std@draugur@ps@enter_exit`
+- `anim@veh@std@draugur@rds@enter_exit`
+- `anim@veh@std@draugur@rps@enter_exit`
+- `anim@weapons@first_person@aim_idle@p_m_zero@misc@metal_detector@aim_trans@unholster_to_idle`
+- `anim@weapons@first_person@aim_lt@generic@sniper_rifle@precision_rifle@core`
+- `anim@weapons@first_person@aim_scope@generic@sniper_rifle@precision_rifle@core`
 
 ## Images
