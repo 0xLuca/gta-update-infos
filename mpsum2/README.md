@@ -2,7 +2,7 @@
 
 Released: 2022/07/26
 
-_This Information collection contains all the new things I found while browsing the update's game files. It consists of to parts:_
+_This Information collection contains all the new things I found while browsing the update's game files. It consists of two parts:_
 - **Data**: This part contains everything new that I found.
 - **Images**: This part contains images of the most important new additions.
 
