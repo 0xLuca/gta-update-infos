@@ -1,4 +1,4 @@
-# Gta Update Infos
+# GTA Update Infos
 Information about new GTA Online updates 
 
 ## Documented Updates:
